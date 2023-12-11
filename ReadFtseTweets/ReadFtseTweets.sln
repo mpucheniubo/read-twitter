@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFtseTweets", "ReadFtseTweets\ReadFtseTweets.csproj", "{C57220AB-A7E3-463C-821F-2D66D79D6E17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57220AB-A7E3-463C-821F-2D66D79D6E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57220AB-A7E3-463C-821F-2D66D79D6E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57220AB-A7E3-463C-821F-2D66D79D6E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57220AB-A7E3-463C-821F-2D66D79D6E17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+bin
+obj
+Properties
+.vscode
+.vs
+local.settings.json
+.DS_Store
